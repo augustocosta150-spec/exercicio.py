@@ -1,9 +1,9 @@
-num = int(imput("Digite qualquer número:"))
+num = int(input("Digite qualquer número:"))
 
 if num <= 0:
     print("O número escolhido é negativo.")
 else : 
     print("O número escolhido é positivo.")
     
-    if numero == 0:
+    if num == 0:
         print("O número escolhido é zero.")
