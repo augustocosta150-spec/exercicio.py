@@ -6,4 +6,4 @@ else :
     print("O número escolhido é positivo.")
     
     if num == 0:
-        print("O número escolhido é zero.")
+        print("o número escolhido é zero.")
